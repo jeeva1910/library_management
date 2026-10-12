@@ -1,0 +1,6 @@
+{
+  "name": "Digital Library Management System",
+  "description": "Comprehensive digital library management application featuring role-based portals for students and librarians, book circulation, automated fine management, reservation queueing, digital resource repository, and administrative analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
